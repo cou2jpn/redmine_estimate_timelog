@@ -16,6 +16,8 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 require 'iconv'
+require 'csv'
+FCSV = CSV
 
 module EstimateTimelogHelper
   include ApplicationHelper
