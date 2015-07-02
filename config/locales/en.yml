@@ -1,3 +1,21 @@
-# English strings go here for Rails i18n
 en:
-  my_label: "My label"
+  et_label_menu: EstimatesTimeLog
+  et_label_estimated_hours: Estimates
+  et_label_hours: Performance
+  et_label_estimated_total: "Tortal estimates"
+  et_label_hours_total: "Tortal performance"
+  et_label_radio_estimated: "Estimates-based"
+  et_label_radio_hours: "Performance-based"
+  et_label_base_summary: "How to aggregate"
+  et_label_mine: "Show Self-Report"
+  et_label_without_closed: "Do not show closed issues"
+  et_label_redminedefault: "Show only results"
+  et_label_tmpl: "Report Template"
+  et_label_tmpl_1: "Member > Activitie > Issue"
+  et_label_tmpl_2: "Member > Issue"
+  et_label_tmpl_3: "Project > Member > Issue"
+  et_label_tmpl_4: "Project > Version > Member"
+
+  et_label_start_date: "Start date"
+  et_label_due_date: "Due date"
+  et_label_done_ratio: "% Done"
